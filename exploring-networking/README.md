@@ -69,3 +69,40 @@ Logical mode can be annotated with various shapes, media, and notes.
 
 ### Section 2
 
+The Network Controller serves a Web UI that can be used to get an overview of a network.
+This includes: health, reach-ability, etc.
+
+#### Activity 2.1.3
+
+This activity was pretty cool. We installed a pre-configured network controller to our
+network's switch and accessed it from and end PC, connected two more devices wirelessly
+to our network and ran a discovery task in the controller to see them pop up.
+
+#### Activity 2.1.5
+
+I also enjoyed this one. We created a new credential list for a `student` account and made
+a discovery task using that credential list. We then added a new switch to the network and
+configured it to accept connections from our credential list. We then ran the discovery task
+again and saw the new switch appear.
+
+### Section 3
+
+#### PTTA 2.2.1
+
+I ran into an issue when I first started where I was trying to access `cisco.pka` instead of
+`www.cisco.pka` and it refused to register my progress but I fixed that quickly. Otherwise,
+it was easy: check that I couldn't access it, see that I'm not connected to the network,
+connect to the router whose IP is the default gateway, magically get the credentials,
+check the PSK, plug it into the disconnected laptop, `ipconfig /renew`, then boom, it works.
+
+## Final Exam
+
+Quick quiz having me review the topics of the course.
+
+## Conclusion
+
+While more in-depth than "Getting Started with Cisco Packet Tracer", this course was
+obviously still an introductory course as indicated. The content of the course was
+informative and well put together for the most part, but some of the activity
+instructions seemed to inconsistently skip some steps and other times had grading
+targets that weren't addressed in the instructions. Overall, the course was good.
