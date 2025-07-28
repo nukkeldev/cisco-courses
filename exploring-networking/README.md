@@ -47,3 +47,25 @@ in the informational section above.
 
 ### Section 1
 
+Simulation mode allows the user to step through time and inspect each PDU (Protocol Data Unit)
+as it goes through the network.
+
+The PDU and Complex PDU tools at the end of the toolbar allow for users to manually send, or
+schedule, PDUs to be sent from devices.
+
+#### Activity 2.0.3
+
+- Basic inspection of ICMP and ARP PDUs as well as manual creation of them using tooling.
+
+#### Topology Annotation
+
+Logical mode can be annotated with various shapes, media, and notes.
+
+#### Activity 2.0.7
+
+- I connected a new switch to the previous one through a straight-through through gigabit ports.
+- Connected port 1 of the new switch to a patch panel port then connected it to a new PC in the office through a wall mount.
+- I then added a second home network with a PC, Home Gateway, and Cable Modem.
+
+### Section 2
+
