@@ -1,12 +1,10 @@
-# Cisco Packet Tracker Course Progress
+# Cisco Courses Progress
 
-This repository documents my progress with Cisco Packet Tracer's (CPT) courses.
+This repository documents my progress with Cisco's courses.
 
-- Current Course: Exploring Networking with Cisco Packet Tracer
+- Current Course: -
 - Past Courses:
-    - Getting Started with Cisco Packet Tracer
-
-## Structure
-
-- `README.md` will record overall progress with the courses.
-- Each course will have a TLD that contains notes, activities, and other files.
+  - Introduction to Packet Tracer Exam
+  - Exploring IoT with Cisco Packet Tracer
+  - Exploring Networking with Cisco Packet Tracer
+  - Getting Started with Cisco Packet Tracer
