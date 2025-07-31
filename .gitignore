@@ -1,3 +1,5 @@
 *.pka
 *.pksz
 *.bak
+
+.vscode
